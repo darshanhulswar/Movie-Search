@@ -9,4 +9,9 @@
 
 .movie-img {
   min-height: 10rem;
+  border-radius: 2rem;
+}
+
+.movie-title {
+  margin: 0 1rem;
 }
