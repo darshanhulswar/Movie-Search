@@ -1,0 +1,12 @@
+.movie-card {
+  display: flex;
+  padding: 2rem;
+  margin: 1rem;
+  box-shadow: 0 0 1rem #000;
+  min-height: 19rem;
+  border-radius: 2rem;
+}
+
+.movie-img {
+  min-height: 10rem;
+}
